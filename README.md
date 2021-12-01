@@ -79,5 +79,21 @@
 
     Belajar Python yang menjadi landasan penting berbagai tren industri seperti ilmu data, pemelajaran mesin, dan manajemen infrastruktur.
   
+ 3. Belajar Machine Learning untuk Pemula [[📃](https://www.dicoding.com/certificates/07Z6L2Q62PQR)]
+  
+    <a href='https://www.dicoding.com/academies/184'><img src="File.Foto/Belajar%20Machine%20Learning%20Untuk%20Pemula.jpg"></a>
+  
+    Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
+  
+    <details><summary>Latihan</summary>
+    
+    - Berbagai Latihan [[📁](https://github.com/ToniAS21/Dicoding/tree/main/File%20latihan%20ML%20Pemula)]
+      
+     </details>
+     
+    <details><summary>Proyek Akhir</summary>
+      
+    -	Image Classification [[📁](https://github.com/ToniAS21/Dicoding/blob/main/PA_Klasifikasi_Gambar.ipynb)]
+
   
 </details>
