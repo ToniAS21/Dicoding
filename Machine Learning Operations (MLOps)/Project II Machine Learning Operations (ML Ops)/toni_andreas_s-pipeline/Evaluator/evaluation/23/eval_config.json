@@ -1,0 +1,59 @@
+{
+  "evalConfig": {
+    "modelSpecs": [
+      {
+        "labelKey": "response"
+      }
+    ],
+    "slicingSpecs": [
+      {}
+    ],
+    "metricsSpecs": [
+      {
+        "metrics": [
+          {
+            "className": "AUC"
+          },
+          {
+            "className": "Precision"
+          },
+          {
+            "className": "Recall"
+          },
+          {
+            "className": "ExampleCount"
+          },
+          {
+            "className": "TruePositives"
+          },
+          {
+            "className": "FalsePositives"
+          },
+          {
+            "className": "TrueNegatives"
+          },
+          {
+            "className": "FalseNegatives"
+          },
+          {
+            "className": "BinaryAccuracy",
+            "threshold": {
+              "valueThreshold": {
+                "lowerBound": 0.6
+              }
+            }
+          }
+        ],
+        "modelNames": [
+          ""
+        ]
+      }
+    ]
+  },
+  "version": "0.43.0",
+  "dataLocation": "<user provided PCollection>",
+  "fileFormat": "<unknown>",
+  "modelLocations": {
+    "": "outputs/purchase-predict-pipeline/Trainer/model/22/Format-Serving"
+  }
+}
