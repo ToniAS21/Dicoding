@@ -52,13 +52,11 @@
   - Submission 2 - Time Series [[📁 Here](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pengembangan/Project_Time_Series.ipynb.ipynb)]
   - Submission 3 - Image Classification [[📁 Here](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pengembangan/Project_Image_Classification.ipynb.ipynb)]
 
-
 ## 5. Machine Learning Terapan [[📃 - Certificate](https://www.dicoding.com/certificates/07Z6GGDLWXQR)]
    <a href='https://www.dicoding.com/academies/319-machine-learning-terapan'><img src="File.Foto/Description MLT.png"></a>
    ### Project
    - Proyek Pertama [[📁 Here](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Terapan%20(MLT)/Proyek%20Pertama)]
    - Proyek Akhir [[📁 Here](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Terapan%20(MLT)/Proyek%20Akhir)]
-
 
 ## 6. Machine Learning Operations (MLOps) [[📃 - Certificate](https://www.dicoding.com/certificates/JLX1L5ORJX72)]
    <a href='https://www.dicoding.com/academies/443-machine-learning-operations-mlops'><img src="File.Foto/Description MLOps.png"></a>  
@@ -73,7 +71,7 @@
 <br>
 <h1 align="center">Data Scientist</h1>
 <p align="center">
-  <img src="File.Foto/logo-data-science.png" height="300">
+  <img src="File.Foto/logo-data-science_new.png" height="300">
 </p>
   <p align="justify">
     Kurikulum lengkap yang didesain oleh tim expert Dicoding bersama para praktisi industri. Siswa dipersiapkan untuk menjadi seorang Data Scientist berstandar global.
