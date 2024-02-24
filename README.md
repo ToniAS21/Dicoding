@@ -71,7 +71,7 @@
 <br>
 <h1 align="center">Data Scientist</h1>
 <p align="center">
-  <img src="File.Foto/logo-data-science_new.png" height="300">
+  <img src="File.Foto/logo-data-science_new.png" height="100">
 </p>
   <p align="justify">
     Kurikulum lengkap yang didesain oleh tim expert Dicoding bersama para praktisi industri. Siswa dipersiapkan untuk menjadi seorang Data Scientist berstandar global.
