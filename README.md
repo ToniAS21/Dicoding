@@ -14,11 +14,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br>
+<h1 align="center">Machine Learning Developer</h1>
 <p align="center">
   <img src="File.Foto/Machine-Learning (1).jpg" height="100">
 </p>
-
-<h1 align="center">Machine Learning Developer</h1>
   <p align="justify">
     Kurikulum Machine Learning di Dicoding telah dikembangkan langsung bersama IBM dan Google menggunakan kurikulum resmi dari masing-masing perusahaan agar dapat memenuhi        kebutuhan industri.
   </p>
@@ -43,8 +42,8 @@
 ## 3. Belajar Machine Learning untuk Pemula [[📃 - Certificate](https://www.dicoding.com/certificates/07Z6L2Q62PQR)]
    <a href='https://www.dicoding.com/academies/184'><img src="File.Foto/Description MLPemula.png"></a>  
   ### Project
-  - Berbagai Latihan [[📁](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Pemula/File%20latihan%20ML%20Pemula)]
-  - Final Submission - Image Classification [[📁](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pemula/PA_Klasifikasi_Gambar.ipynb)]
+  - Berbagai Latihan [[📁 Here](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Pemula/File%20latihan%20ML%20Pemula)]
+  - Final Submission - Image Classification [[📁 Here](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pemula/PA_Klasifikasi_Gambar.ipynb)]
    
 ## 4. Belajar Pengembangan Machine Learning [[📃 - Certificate](https://www.dicoding.com/certificates/MRZMKJGYRPYQ)]
    <a href='https://www.dicoding.com/academies/185'><img src="File.Foto/Description BPML.png"></a>  
@@ -72,13 +71,12 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br>
-<p align="center">
-  <img src="File.Foto/logo-data-science.png" height="100">
-</p>
-
 <h1 align="center">Data Scientist</h1>
+<p align="center">
+  <img src="File.Foto/logo-data-science.png" height="300">
+</p>
   <p align="justify">
-    Kurikulum lengkap yang didesain oleh tim expert Dicoding bersama para       praktisi industri. Siswa dipersiapkan untuk menjadi seorang Data            Scientist berstandar global.
+    Kurikulum lengkap yang didesain oleh tim expert Dicoding bersama para praktisi industri. Siswa dipersiapkan untuk menjadi seorang Data Scientist berstandar global.
   </p>
 
 <details>
@@ -103,14 +101,14 @@
 ## 4. Belajar Analisis Data dengan Python [[📃 - Certificate](https://www.dicoding.com/certificates/MRZM8E7ENZYQ)]
    <a href='https://www.dicoding.com/academies/555'><img src="File.Foto/Description Analysis Python.png"></a>
    ### Project
-   - Proyek Analisis Data:E-Commerce Analysis [[📁](https://github.com/ToniAS21/Analisis-Data-Python)]
+   - Proyek Analisis Data:E-Commerce Analysis [[📁 Here](https://github.com/ToniAS21/Analisis-Data-Python)]
 
   
 ## 5. Belajar Machine Learning untuk Pemula [[📃 - Certificate](https://www.dicoding.com/certificates/07Z6L2Q62PQR)]
    <a href='https://www.dicoding.com/academies/184'><img src="File.Foto/Description MLPemula.png"></a>  
   ### Project
-  - Berbagai Latihan [[📁](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Pemula/File%20latihan%20ML%20Pemula)]
-  - Final Submission - Image Classification [[📁](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pemula/PA_Klasifikasi_Gambar.ipynb)]
+  - Berbagai Latihan [[📁 Here](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Pemula/File%20latihan%20ML%20Pemula)]
+  - Final Submission - Image Classification [[📁 Here](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pemula/PA_Klasifikasi_Gambar.ipynb)]
 
 ## 6. Belajar Pengembangan Machine Learning [[📃 - Certificate](https://www.dicoding.com/certificates/MRZMKJGYRPYQ)]
    <a href='https://www.dicoding.com/academies/185'><img src="File.Foto/Description BPML.png"></a>  
@@ -126,8 +124,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-<details>
 <br>
 <p align="center">
   <img src="File.Foto/github-logo-1068x601.jpg" height="100">
