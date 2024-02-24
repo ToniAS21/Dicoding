@@ -123,7 +123,7 @@
 <br>
 <h1 align="center">Cloud Computing</h1>
 <p align="center">
-  <img src="File.Foto/Logo Dicoding AWS.jpg" height="100">
+  <img src="File.Foto/Logo Dicoding AWS.png" height="100">
 </p>
   <p align="justify">
     Kurikulum disusun oleh Dicoding bersama AWS beserta pelaku industri Back-End Development. 
