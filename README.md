@@ -1,24 +1,85 @@
 <br />
 
 <p align="center">
-  <a href='https://www.dicoding.com/'><img src="File.Foto/logo.png"></a>
+  <a href='https://www.dicoding.com/'><img src="File.Foto/logo.png" height="100"></a>
 </p>
 
 <br />
 
-<p align="center">
+<p align="justify">
   Visi Dicoding adalah <strong>menjadi platform edukasi teknologi terdepan yang mendorong akses literasi digital yang lebih luas untuk semua</strong>. Dicoding memiliki misi untuk <strong>mengakselerasi transisi Indonesia menuju dunia digital melalui pendidikan teknologi yang mentransformasi kehidupan. </strong>
   <a href="https://www.dicoding.com/about">More Information</a>
 </p> 
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<br>
+<p align="center">
+  <img src="File.Foto/Machine-Learning (1).jpg" height="100">
+</p>
+
+<h1 align="center">Machine Learning Developer</h1>
+  <p align="justify">
+    Kurikulum Machine Learning di Dicoding telah dikembangkan langsung bersama IBM dan Google menggunakan kurikulum resmi dari masing-masing perusahaan agar dapat memenuhi        kebutuhan industri.
+  </p>
+
+<details>
+  <summary><h2 align="center">Deskripsi</h2></summary>
+    <p align="justify">
+        Seorang Machine Learning Developer adalah pakar dalam menggunakan data untuk model pelatihan. Model-model tersebut kemudian digunakan untuk mengotomatisasi proses           seperti klasifikasi gambar, pengenalan suara, dan perkiraan pasar. Sering kali ada penggabungan dengan peran data scientist atau artificial intelligence (AI)                engineer. Machine learning adalah subbidang AI yang berfokus pada analisis data untuk menemukan hubungan antara input dan output yang diinginkan. Seorang                    pengembang pemelajaran mesin harus mampu menghasilkan solusi yang dibuat khusus untuk setiap masalah dan mencapai hasil optimal dengan hati-hati memproses 
+        data dan memilih algoritma terbaik untuk konteks yang diberikan.
+    </p>
+</details>
+
+<details>
+<summary><h2 align="center">Daftar Modul</h2></summary>
+  
+## 1. Belajar Dasar Visualisasi Data[[📃- Certificate](https://www.dicoding.com/certificates/EYX4RNJ85XDL)]
+   <a href='https://www.dicoding.com/academies/177'><img src="File.Foto/Description Visualization.png" height="300"> </a>
+
+## 2. Memulai Pemrograman Dengan Python [[📃 - Certificate](https://www.dicoding.com/certificates/QLZ918332P5D)]
+   <a href='https://www.dicoding.com/academies/86'><img src="File.Foto/Description Python.png" height="300"></a>
+  
+## 3. Belajar Machine Learning untuk Pemula [[📃 - Certificate](https://www.dicoding.com/certificates/07Z6L2Q62PQR)]
+   <a href='https://www.dicoding.com/academies/184'><img src="File.Foto/Description MLPemula.png" height="300"></a>  
+  ### Project
+  - Berbagai Latihan [[📁](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Pemula/File%20latihan%20ML%20Pemula)]
+  - Final Submission - Image Classification [[📁](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pemula/PA_Klasifikasi_Gambar.ipynb)]
+   
+## 4. Belajar Pengembangan Machine Learning [[📃 - Certificate](https://www.dicoding.com/certificates/MRZMKJGYRPYQ)]
+   <a href='https://www.dicoding.com/academies/185'><img src="File.Foto/Description BPML.png"></a>  
+  ### Project
+  - Submission 1 - Project Natural Language Processing (NLP) [[📁 Here](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pengembangan/Project_NLP.ipynb.ipynb)]
+  - Submission 2 - Time Series [[📁 Here](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pengembangan/Project_Time_Series.ipynb.ipynb)]
+  - Submission 3 - Image Classification [[📁 Here](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pengembangan/Project_Image_Classification.ipynb.ipynb)]
+
+
+## 5. Machine Learning Terapan [[📃 - Certificate](https://www.dicoding.com/certificates/07Z6GGDLWXQR)]
+   <a href='https://www.dicoding.com/academies/319-machine-learning-terapan'><img src="File.Foto/Description MLT.png"></a>
+   ### Project
+   - Proyek Pertama [[📁 Here](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Terapan%20(MLT)/Proyek%20Pertama)]
+   - Proyek Akhir [[📁 Here](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Terapan%20(MLT)/Proyek%20Akhir)]
+
+
+## 6. Machine Learning Operations (MLOps) [[📃 - Certificate](https://www.dicoding.com/certificates/JLX1L5ORJX72)]
+   <a href='https://www.dicoding.com/academies/443-machine-learning-operations-mlops'><img src="File.Foto/Description MLOps.png"></a>  
+   ### Project
+   - Project 1 MLOps [[📁 Here](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Operations%20(MLOps)/Project%20I%20Machine%20Learning%20Operations%20(ML%20Ops))]     
+   - Project 2 ML Ops [[📁 Here](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Operations%20(MLOps)/Project%20II%20Machine%20Learning%20Operations%20(ML%20Ops))]
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<details>
 <br>
 <p align="center">
   <img src="File.Foto/github-logo-1068x601.jpg" height="100">
 </p>
 
 <h2 align="center">Github</h2>
+<details>
 
 <details><summary>Deskripsi</summary>
 
@@ -46,54 +107,3 @@
  <br>
 
 ---
-
-<br>
-<p align="center">
-  <img src="File.Foto/machine_learning_developer_logo_160920145824.png" height="100">
-</p>
-
-<h2 align="center">Machine Learning Developer</h2>
-
-<details><summary>Deskripsi</summary>
-
-<p align="justify">
-    Seorang Machine Learning Developer adalah pakar dalam menggunakan data untuk model pelatihan. Model-model tersebut kemudian digunakan untuk mengotomatisasi proses seperti klasifikasi gambar, pengenalan suara, dan perkiraan pasar. Sering kali ada penggabungan dengan peran data scientist atau artificial intelligence (AI) engineer. Machine learning adalah subbidang AI yang berfokus pada analisis data untuk menemukan hubungan antara input dan output yang diinginkan. Seorang pengembang pemelajaran mesin harus mampu menghasilkan solusi yang dibuat khusus untuk setiap masalah dan mencapai hasil optimal dengan hati-hati memproses data dan memilih algoritma terbaik untuk konteks yang diberikan.
-</p>
-<p align="justify">
-    Kurikulum Machine Learning di Dicoding telah dikembangkan langsung bersama IBM dan Google menggunakan kurikulum resmi dari masing-masing perusahaan. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang Machine Learning Developer yang dapat memenuhi kebutuhan industri.
-</p>
-
-</details>
-
-<details><summary>Daftar Modul</summary>
-
-1. Belajar Dasar Visualisasi Data [[📃](https://www.dicoding.com/certificates/EYX4RNJ85XDL)]
-
-    <a href='https://www.dicoding.com/academies/177'><img src="File.Foto/Visualisasi Data.jpg"></a>
-
-    Pelajari teknik dasar untuk representasi hasil secara visual sehingga dapat menceritakan dan mempresentasikan data secara efektif.
-
-2. Memulai Pemrograman Dengan Python [[📃](https://www.dicoding.com/certificates/QLZ918332P5D)]
-
-    <a href='https://www.dicoding.com/academies/86'><img src="File.Foto/Memulai Pemprograman Dengan Python.jpg"></a>
-
-    Belajar Python yang menjadi landasan penting berbagai tren industri seperti ilmu data, pemelajaran mesin, dan manajemen infrastruktur.
-  
- 3. Belajar Machine Learning untuk Pemula [[📃](https://www.dicoding.com/certificates/07Z6L2Q62PQR)]
-  
-    <a href='https://www.dicoding.com/academies/184'><img src="File.Foto/Belajar%20Machine%20Learning%20Untuk%20Pemula.jpg"></a>
-  
-    Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
-  
-    <details><summary>Latihan</summary>
-    
-    - Berbagai Latihan [[📁](https://github.com/ToniAS21/Dicoding/tree/main/File%20latihan%20ML%20Pemula)]
-      
-     </details>
-     
-    <details><summary>Proyek Akhir</summary>
-      
-    -	Image Classification [[📁](https://github.com/ToniAS21/Dicoding/blob/main/PA_Klasifikasi_Gambar.ipynb)]
-
-  
-</details>
