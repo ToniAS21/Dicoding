@@ -119,6 +119,35 @@
 
 
 
+
+<br>
+<h1 align="center">Cloud Computing</h1>
+<p align="center">
+  <img src="File.Foto/Logo Dicoding AWS.jpg" height="100">
+</p>
+  <p align="justify">
+    Kurikulum disusun oleh Dicoding bersama AWS beserta pelaku industri Back-End Development. 
+  </p>
+
+<details>
+  <summary><h2 align="center">Deskripsi</h2></summary>
+    <p align="justify">
+        Komputasi cloud telah berkembang secara signifikan dan semakin populer beberapa tahun terakhir. Salah satu platform cloud terdepan dan paling komprehensif adalah Amazon Web Services (AWS). Jutaan pelanggan telah menggunakan AWS, termasuk tiga unicorn asal Indonesia seperti Traveloka, Tokopedia, dan Gojek. 
+    </p>
+</details>
+
+<details>
+<summary><h2 align="center">Daftar Modul</h2></summary>
+  
+## 1. Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)[[📃- Certificate](https://www.dicoding.com/certificates/MEPJLOD5WZ3V)]
+   <a href='https://www.dicoding.com/academies/251-cloud-practitioner-essentials-belajar-dasar-aws-cloud'><img src="File.Foto/Cloud basic.png"></a>
+
+## 2. Architecting on AWS (Membangun Arsitektur Cloud di AWS)[[📃 - Certificate](https://www.dicoding.com/certificates/2VX32EN44PYQ)]
+   <a href='[https://www.dicoding.com/academies/86](https://www.dicoding.com/academies/266-architecting-on-aws-membangun-arsitektur-cloud-di-aws)'><img src="File.Foto/Architecture AWS.png"></a>
+   
+</details>
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
