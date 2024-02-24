@@ -35,13 +35,13 @@
 <summary><h2 align="center">Daftar Modul</h2></summary>
   
 ## 1. Belajar Dasar Visualisasi Data[[📃- Certificate](https://www.dicoding.com/certificates/EYX4RNJ85XDL)]
-   <a href='https://www.dicoding.com/academies/177'><img src="File.Foto/Description Visualization.png" height="300"> </a>
+   <a href='https://www.dicoding.com/academies/177'><img src="File.Foto/Description Visualization.png"></a>
 
 ## 2. Memulai Pemrograman Dengan Python [[📃 - Certificate](https://www.dicoding.com/certificates/QLZ918332P5D)]
-   <a href='https://www.dicoding.com/academies/86'><img src="File.Foto/Description Python.png" height="300"></a>
+   <a href='https://www.dicoding.com/academies/86'><img src="File.Foto/Description Python.png"></a>
   
 ## 3. Belajar Machine Learning untuk Pemula [[📃 - Certificate](https://www.dicoding.com/certificates/07Z6L2Q62PQR)]
-   <a href='https://www.dicoding.com/academies/184'><img src="File.Foto/Description MLPemula.png" height="300"></a>  
+   <a href='https://www.dicoding.com/academies/184'><img src="File.Foto/Description MLPemula.png"></a>  
   ### Project
   - Berbagai Latihan [[📁](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Pemula/File%20latihan%20ML%20Pemula)]
   - Final Submission - Image Classification [[📁](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pemula/PA_Klasifikasi_Gambar.ipynb)]
@@ -67,11 +67,66 @@
    - Project 1 MLOps [[📁 Here](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Operations%20(MLOps)/Project%20I%20Machine%20Learning%20Operations%20(ML%20Ops))]     
    - Project 2 ML Ops [[📁 Here](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Operations%20(MLOps)/Project%20II%20Machine%20Learning%20Operations%20(ML%20Ops))]
 
-
-
-
+</details>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<br>
+<p align="center">
+  <img src="File.Foto/logo-data-science.png" height="100">
+</p>
+
+<h1 align="center">Data Scientist</h1>
+  <p align="justify">
+    Kurikulum lengkap yang didesain oleh tim expert Dicoding bersama para       praktisi industri. Siswa dipersiapkan untuk menjadi seorang Data            Scientist berstandar global.
+  </p>
+
+<details>
+  <summary><h2 align="center">Deskripsi</h2></summary>
+    <p align="justify">
+        Perkembangan teknologi yang masif berbanding lurus dengan maraknya data yang diperoleh oleh setiap perusahaan. Agar tetap dapat bersaing, banyak perusahaan menggunakan data science untuk mengolah data hingga menjadi informasi yang dibutuhkan.
+    </p>
+</details>
+
+<details>
+<summary><h2 align="center">Daftar Modul</h2></summary>
+  
+## 1. Belajar Dasar Data Science[[📃- Certificate](https://www.dicoding.com/certificates/QLZ94707DP5D)]
+   <a href='https://www.dicoding.com/academies/615'><img src="File.Foto/Description Basic DS.png"></a>
+
+## 2. Belajar Dasar Structured Query Language (SQL) [[📃 - Certificate](https://www.dicoding.com/certificates/2VX3OR3RJZYQ)]
+   <a href='https://www.dicoding.com/academies/600'><img src="File.Foto/Description SQL.png"></a>
+
+## 3. Memulai Pemrograman dengan Python [[📃 - Certificate](https://www.dicoding.com/certificates/QLZ918332P5D)]
+   <a href='https://www.dicoding.com/academies/86'><img src="File.Foto/Description Python.png"></a>
+
+## 4. Belajar Analisis Data dengan Python [[📃 - Certificate](https://www.dicoding.com/certificates/MRZM8E7ENZYQ)]
+   <a href='https://www.dicoding.com/academies/555'><img src="File.Foto/Description Analysis Python.png"></a>
+   ### Project
+   - Proyek Analisis Data:E-Commerce Analysis [[📁](https://github.com/ToniAS21/Analisis-Data-Python)]
+
+  
+## 5. Belajar Machine Learning untuk Pemula [[📃 - Certificate](https://www.dicoding.com/certificates/07Z6L2Q62PQR)]
+   <a href='https://www.dicoding.com/academies/184'><img src="File.Foto/Description MLPemula.png"></a>  
+  ### Project
+  - Berbagai Latihan [[📁](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Pemula/File%20latihan%20ML%20Pemula)]
+  - Final Submission - Image Classification [[📁](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pemula/PA_Klasifikasi_Gambar.ipynb)]
+
+## 6. Belajar Pengembangan Machine Learning [[📃 - Certificate](https://www.dicoding.com/certificates/MRZMKJGYRPYQ)]
+   <a href='https://www.dicoding.com/academies/185'><img src="File.Foto/Description BPML.png"></a>  
+  ### Project
+  - Submission 1 - Project Natural Language Processing (NLP) [[📁 Here](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pengembangan/Project_NLP.ipynb.ipynb)]
+  - Submission 2 - Time Series [[📁 Here](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pengembangan/Project_Time_Series.ipynb.ipynb)]
+  - Submission 3 - Image Classification [[📁 Here](https://github.com/ToniAS21/Dicoding/blob/main/Machine%20Learning%20Pengembangan/Project_Image_Classification.ipynb.ipynb)]
+
+</details>
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 <details>
 <br>
 <p align="center">
