@@ -1,4 +1,4 @@
-# Submission 1: Nama Proyek Anda
+# Submission 1: Analisis Sentiment Konsumen
 Nama: Toni Andreas Susanto
 
 Username dicoding: toni_andreas_s
