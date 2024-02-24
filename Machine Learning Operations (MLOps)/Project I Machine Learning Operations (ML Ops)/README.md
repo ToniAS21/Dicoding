@@ -1,4 +1,4 @@
-# Submission 1: Analisis Sentiment Konsumen
+# Submission 1: Analisis Sentimen Konsumen
 Nama: Toni Andreas Susanto
 
 Username dicoding: toni_andreas_s
